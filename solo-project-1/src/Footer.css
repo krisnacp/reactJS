@@ -1,0 +1,13 @@
+footer {
+    background-color: #161619;
+    height: 4em;
+    width: 19.8125em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+}
+
+footer > img {
+    width: 2em;
+}
