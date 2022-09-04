@@ -1,0 +1,11 @@
+.hero-container {
+    padding: 0 2.25em;
+    margin: 1em 0 2em;
+}
+
+.hero-image {
+    width: 26.666666666666666666666666666667em;
+    border-radius: 0.3em;
+    display: block;
+    margin: 0 auto;
+}
