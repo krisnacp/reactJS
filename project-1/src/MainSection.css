@@ -1,0 +1,41 @@
+.main-section-container {
+    color: #fff;
+    margin: 57px 0 0 27px;
+    position: relative;
+}
+
+.section-title {
+    font-size: 3em;
+}
+
+.section-list {
+    font-size: 1.5em;
+    line-height: 2em;
+    /* list-style: none; */
+}
+
+/* cara I mengubah bullet menjadi warna lain */
+li {
+    color: #61dafb;
+}
+
+li span {
+    color: #fff;
+}
+
+/* cara II mengubah bullet menjadi warna lain */
+/* li::before {
+    content: "\2022";
+    color: #61dafb;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin: -2em 0 0 -1em; 
+} */
+
+.section-logo {
+    width: 50em;
+    position: absolute;
+    top: -3em;
+    right: -26em;
+}
