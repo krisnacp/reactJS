@@ -1,0 +1,11 @@
+nav {
+    display: flex;
+    align-items: center;
+    height: 4.375em;
+    box-shadow: 1px 1px 5px 1px #cfcdcd;
+}
+
+.logo {
+    width: 85px;
+    margin: 0 0 0 1.5em;
+}

@@ -1,0 +1,34 @@
+header {
+    height: 5.6875em;
+    background-color: #21222a;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* logo */
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin: 0 0 0 27px;
+}
+
+.logo {
+    width: 6em;
+}
+
+.logo-desc {
+    color: #61dafb;
+}
+/* end of logo */
+.course-container {
+    margin: 0 27px 0 0;
+}
+
+.course {
+    color: #deebf8;
+    font-weight: 500;
+    font-size: 1.4em;
+}

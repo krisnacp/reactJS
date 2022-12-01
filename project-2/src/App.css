@@ -1,0 +1,16 @@
+.container {
+    width: 36em;
+    /* height: 40em; */
+    margin: 5em auto;
+    /* border: 1px solid black; */
+    border-radius: 1em;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+.content-container > p {
+    margin: -1.6em 0 0;
+    width: 21em;
+    font-weight: 300;
+    font-size: 0.8em;
+}
